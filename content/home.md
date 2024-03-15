@@ -10,6 +10,8 @@ cats:
     name: Grumpy cat (Tardar Sauce)
   - name: asdasd63536363
     description: asdasd
+  - name: new cats
+    description: dsfsdf
 ---
 
 Welcome to my awesome page about cats of the internet.
